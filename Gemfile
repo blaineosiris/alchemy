@@ -38,4 +38,5 @@ group :test do
   gem 'turn', '~> 0.8.3', :require => false
   gem 'rspec'
   gem 'webrat'
+  gem 'spork'
 end
